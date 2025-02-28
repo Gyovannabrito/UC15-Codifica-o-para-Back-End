@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Felipe Santos",
+      "endereco": "Rua X"
+    },
+    {
+      "id": "4",
+      "nome": "Felipe",
+      "endereco": "Rua 4"
+    },
+    {
+      "id": 0,
+      "nome": "rolfi",
+      "endereco": " Rua Um"
+    },
+    {
+      "id": 0,
+      "nome": "rolfi",
+      "endereco": "Rua Um"
+    },
+    {
+      "id": 0,
+      "nome": "rolfi",
+      "endereco": "Rua Um"
+    },
+    {
+      "id": 0,
+      "nome": "rolfi",
+      "endereco": "Rua Um"
+    },
+    {
+      "id": 0,
+      "nome": "rolfi",
+      "endereco": "Rua Um"
+    }
+  ]
+}

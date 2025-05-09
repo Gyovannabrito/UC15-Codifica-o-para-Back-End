@@ -1,0 +1,30 @@
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.exe
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.deps.json
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\bin\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.sourcelink.json
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\refint\EstruturasCondicionais.dll
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\admin\Desktop\Introdução ao c#\SegundaAula\EstruturasCondicionais\obj\Debug\net8.0\ref\EstruturasCondicionais.dll
+C:\Users\ALUNO\attDoisComCsharp\bin\Debug\net8.0\EstruturasCondicionais.exe
+C:\Users\ALUNO\attDoisComCsharp\bin\Debug\net8.0\EstruturasCondicionais.deps.json
+C:\Users\ALUNO\attDoisComCsharp\bin\Debug\net8.0\EstruturasCondicionais.runtimeconfig.json
+C:\Users\ALUNO\attDoisComCsharp\bin\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\ALUNO\attDoisComCsharp\bin\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.sourcelink.json
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.dll
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\refint\EstruturasCondicionais.dll
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.pdb
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\EstruturasCondicionais.genruntimeconfig.cache
+C:\Users\ALUNO\attDoisComCsharp\obj\Debug\net8.0\ref\EstruturasCondicionais.dll
